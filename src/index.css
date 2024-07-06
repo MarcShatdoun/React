@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-family: system-ui;
+    display: grid;
+    place-content: center;
+}
+
+.sugerenciaCard{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
